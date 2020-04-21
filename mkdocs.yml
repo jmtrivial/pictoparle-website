@@ -1,0 +1,61 @@
+site_name: Pictoparle
+site_url: http://pictoparle.jmfavreau.info
+site_description: Site internet du projet Pictoparle, un outil pour la Communication Alternative et Augmentée des personnes en situation de déficience visuelle
+site_author: Jean-Marie Favreau
+use_directory_urls: true
+theme:
+    name: material
+    icon:
+        logo: 'record_voice_over'
+    palette:
+      primary: 'Deep Orange'
+      accent: 'Indigo'
+    font:
+      text: 'Fira Sans'
+      code: 'Fira Mono'
+      fonts: 'Tex Gyre Schola'
+    language: 'fr'
+    
+      
+
+nav:
+  - Pictoparle: 
+        - 'Présentation': index.md
+        - 'Le matériel': materiel.md
+        - 'Le logiciel': logiciel.md
+        - 'Avancées': avancee.md
+  - 'La Communication Alternative et Augmentée': caa.md
+  - 'À propos': a-propos.md
+
+extra_css:
+    - css/extra.css
+    
+markdown_extensions:
+  - markdown.extensions.attr_list:
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - admonition
+  - codehilite:
+        # use_pygments: True
+        # pygments_style: monokai
+        guess_lang: False
+        # noclasses: True
+        # # pygments_style: pastie
+        # # pygments_style: bw
+        # # pygments_style: colorful
+        # # pygments_style: tango
+        linenums: true
