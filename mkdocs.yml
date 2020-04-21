@@ -6,6 +6,7 @@ use_directory_urls: true
 theme:
     name: material
     logo: 'img/pictoparle-icon-white.svg'
+    favicon: 'img/pictoparle-icon-white.svg'
     palette:
       primary: 'Deep Orange'
       accent: 'Indigo'
