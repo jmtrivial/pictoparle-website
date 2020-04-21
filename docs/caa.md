@@ -1,2 +1,2 @@
-# Communication Alternative et Augmentée
+# Communication Améliorée et Augmentée
 

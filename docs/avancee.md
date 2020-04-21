@@ -17,14 +17,14 @@ Début 2020, un [premier article](https://blog.jmtrivial.info/2020/02/23/outil-n
 
 La réalisation du projet a commencé pendant les fins de semaines du confinement imposé par COVID-19, sous forme de sprints réguliers, qui ont fait l'objet d'une publication sur le [blog de l'auteur](https://blog.jmtrivial.info/tag/pictoparle/). À chaque fin de print, une vidéo de démonstration est également proposée [sur la chaîne youtube](https://www.youtube.com/playlist?list=PLrhqb8aQtdhWbA6qzXm57dGk4yxtITH1f).
 
-### Sprint 1 : faire parler les pictogrammes
+### 14 avril 2020, sprint 1 : faire parler les pictogrammes
 
 <div class="medium float-right"><iframe width="355" height="200" src="https://www.youtube.com/embed/bgv24qxebuY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Le [premier billet](https://blog.jmtrivial.info/2020/04/14/pictoparle-premier-sprint/) présente une première version de l'application, qui affiche une grille de 12 pictogrammes, et permet par double-tap de dire le concept associé au pictogramme.
 
 
-### Sprint 2 : changer de planche, et multi-touch
+### 20 avril 2020, Sprint 2 : changer de planche, et multi-touch
 
 <div class="medium float-right"><iframe width="355" height="200" src="https://www.youtube.com/embed/9FmyvEcUC8c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

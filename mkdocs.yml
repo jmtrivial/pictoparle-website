@@ -5,8 +5,7 @@ site_author: Jean-Marie Favreau
 use_directory_urls: true
 theme:
     name: material
-    icon:
-        logo: 'record_voice_over'
+    logo: 'img/pictoparle-icon-white.svg'
     palette:
       primary: 'Deep Orange'
       accent: 'Indigo'
@@ -21,10 +20,11 @@ theme:
 nav:
   - Pictoparle: 
         - 'Présentation': index.md
+        - 'Les pictogrammes': pictogrammes.md
         - 'Le matériel': materiel.md
         - 'Le logiciel': logiciel.md
         - 'Avancées': avancee.md
-  - 'La Communication Alternative et Augmentée': caa.md
+  - 'La Communication Améliorée et Augmentée': caa.md
   - 'À propos': a-propos.md
 
 extra_css:
