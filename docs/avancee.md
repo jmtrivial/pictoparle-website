@@ -31,4 +31,12 @@ Le [premier billet](https://blog.jmtrivial.info/2020/04/14/pictoparle-premier-sp
 Le [deuxième billet](https://blog.jmtrivial.info/2020/04/19/pictoparle-deuxieme-sprint/) présente la possibilité de changer de planche, et la robustesse au multi-touche involontaire sur l'écran de la tablette.
 
 
+### 28 avril 2020, Sprint 3 : nouvelle interface et paramétrages
+
+<div class="medium float-right"><iframe width="355" height="200" src="https://www.youtube.com/embed/xBwGPgs110A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+Le [troisième billet](https://blog.jmtrivial.info/2020/04/28/pictoparle-troisieme-sprint/) présente les changements de l'interface et les possibilités de paramétrage de l'application.
+
+
+
 
