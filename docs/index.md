@@ -14,7 +14,7 @@ C'est une tablette tactile d'entrée de gamme qui fait fonctionner le dispositif
 
 ## Est-ce que ça marche ?
 
-Le développement de Pictoparle est en cours. On peut consulter [les annonces hebdomadaires](avancee.md) sur ce site, ou consulter les vidéos de démonstration régulièrement mises en ligne:
+Le développement de Pictoparle est en cours. On peut consulter [les annonces hebdomadaires](avancee.md) sur ce site, ou consulter les vidéos de démonstration régulièrement mises en ligne :
 
 <div class="container_youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLrhqb8aQtdhWbA6qzXm57dGk4yxtITH1f" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
