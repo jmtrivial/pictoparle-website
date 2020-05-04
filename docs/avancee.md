@@ -7,14 +7,22 @@ L'auteur de Pictoparle propose sur cette page, dans un ordre chronologique inver
 
 La réalisation du projet a commencé pendant les fins de semaines du confinement imposé par COVID-19, sous forme de sprints réguliers, qui ont fait l'objet d'une publication sur le [blog de l'auteur](https://blog.jmtrivial.info/tag/pictoparle/). À chaque fin de print, une vidéo de démonstration est également proposée [sur la chaîne youtube](https://www.youtube.com/playlist?list=PLrhqb8aQtdhWbA6qzXm57dGk4yxtITH1f).
 
-### 28 avril 2020, Sprint 3 : nouvelle interface et paramétrages
+### 4 mai 2020, sprint 4 : détection automatique des planches et premières planches physiques
+
+<div class="medium float-right"><iframe width="355" height="200" src="https://www.youtube.com/embed/R68Y2XyMYhA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
+Le [quatrième billet](https://blog.jmtrivial.info/2020/05/04/pictoparle-quatrieme-sprint/) présente la détection automatique des planches, les premières planches physiques, et les configurations étendues possibles, avec plusieurs panneaux de pictogrammes par planche.
+
+
+### 28 avril 2020, sprint 3 : nouvelle interface et paramétrages
 
 <div class="medium float-right"><iframe width="355" height="200" src="https://www.youtube.com/embed/xBwGPgs110A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Le [troisième billet](https://blog.jmtrivial.info/2020/04/28/pictoparle-troisieme-sprint/) présente les changements de l'interface et les possibilités de paramétrage de l'application.
 
 
-### 20 avril 2020, Sprint 2 : changer de planche, et multi-touch
+### 20 avril 2020, sprint 2 : changer de planche, et multi-touch
 
 <div class="medium float-right"><iframe width="355" height="200" src="https://www.youtube.com/embed/9FmyvEcUC8c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
