@@ -24,7 +24,7 @@ Notre choix s'est porté sur une tablette de 10,1 pouces, car la surface permet 
 ## Boîtier externe
 
 
-![Détail d'un rendu 3D proposant un concept d'assemblage des deux parties de la boîte](img/boitier-3d.jpg){.small .float-right}
+![Détail d'un rendu 3D proposant un concept d'assemblage des deux parties de la boîte](img/boitier-3d.jpg){.medium .float-right}
 
 La partie supérieure du boîtier sera amovible, et chaque planche de pictogrammes sera formée de son propre couvercle, afin de faciliter le changement de planche, un 
 peu à la manière de ce qui a été exploré pendant le [quatrième sprint](https://www.youtube.com/watch?v=R68Y2XyMYhA) avec les planches en papier rigide. L'illustration jointe propose un assemblage simple entre les deux parties de la boîte, que l'on peut voir animé sur [une vidéo de simulation 3D](https://www.youtube.com/watch?v=mrsanBGftIQ).
