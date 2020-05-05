@@ -23,11 +23,15 @@ Notre choix s'est porté sur une tablette de 10,1 pouces, car la surface permet 
 
 ## Boîtier externe
 
-![Une vue d'artiste un peu naïve du boîtier](img/boitier.jpg){.small .float-right}
 
-La première version du boîtier externe sera probablement fabriquée en utilisant du medium et une découpeuse laser, avec un assemblage par crénelages, à la manière d'une [précédente réalisation](http://accessibilite.jmtrivial.info/tag/qui-est-ce-tactile/) de l'auteur. L'illustration proposée à droite est un grossier montage donnant une vague idée du concept final.
+![Détail d'un rendu 3D proposant un concept d'assemblage des deux parties de la boîte](img/boitier-3d.jpg){.small .float-right}
 
-La partie supérieure du boîtier sera amovible, et chaque planche de pictogrammes sera formée de son propre couvercle, afin de faciliter le changement de planche.
+La partie supérieure du boîtier sera amovible, et chaque planche de pictogrammes sera formée de son propre couvercle, afin de faciliter le changement de planche, un 
+peu à la manière de ce qui a été exploré pendant le [quatrième sprint](https://www.youtube.com/watch?v=R68Y2XyMYhA) avec les planches en papier rigide. L'illustration jointe propose un assemblage simple entre les deux parties de la boîte, que l'on peut voir animé sur [une vidéo de simulation 3D](https://www.youtube.com/watch?v=mrsanBGftIQ).
+La détection des planches se faisant par la webcam, et grâce à des QRCodes placés au verso, on cherche à concevoir un design à la fois facile d'utilisation, et qui assure une détection de la tablette à chaque fois qu'une nouvelle est placée sur le support. Il faut donc que le geste soit le plus uniforme possible. Dans cette proposition, l'utilisateur est invité à poser le bas de la planche sur la tablette, puis à la faire glisser jusqu'aux butées prévues à cet effet, avant de faire pivoter la planche sur la tablette.
+
+
+La première version du boîtier externe sera probablement fabriquée en utilisant du medium et une découpeuse laser, avec un assemblage par crénelages, à la manière d'une [précédente réalisation](http://accessibilite.jmtrivial.info/tag/qui-est-ce-tactile/) de l'auteur.
 
 Dans le dessin pour découpage, on prévoiera des ouvertures latérales laissant accès aux boutons de volume et de marche/arrêt de la tablette, à la prise USB pour le chargement, ainsi qu'à la prise jack dans le cas où on voudrait connecter une enceinte, un casque, ou tout autre dispositif de diffusion sonore.
 
