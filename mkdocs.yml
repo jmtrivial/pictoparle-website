@@ -22,6 +22,7 @@ nav:
   - Pictoparle: 
         - 'Présentation': index.md
         - 'Les pictogrammes': pictogrammes.md
+        - 'Les planches': planches.md
         - 'Le matériel': materiel.md
         - 'Le logiciel': logiciel.md
         - 'Avancées': avancee.md
