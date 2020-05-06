@@ -6,7 +6,7 @@ L'application développée pour faire fonctionner la tablette dans Pictoparle es
 
 L'interface est pour l'instant rudimentaire, mais s'étoffe progressivement. Voici une description non exhausive de son fonctionnement.
 
-* L'application utilise la caméra côté écran pour détecter la présence d'une planche sur sa surface. S'il y a une planche, l'interaction est proposée par double tap. S'il n'y a pas de planche, la tablette permet de choisir la prochaine planche à utiliser. Dans la version actuelle, l'utilisateur doit choisir la planche dans une liste. Très prochainement, ce choix se fera automatiquement grâce à un [QR code](https://fr.wikipedia.org/wiki/Code_QR) unique dessiné au verso de chaque planche.
+* L'application utilise la caméra côté écran pour détecter la présence d'une [planche](planches.md) sur sa surface. S'il y a une planche, l'interaction est proposée par double tap. S'il n'y a pas de planche, la tablette permet de choisir la prochaine planche à utiliser. Dans la version actuelle, l'utilisateur doit choisir la planche dans une liste. Très prochainement, ce choix se fera automatiquement grâce à un [QR code](https://fr.wikipedia.org/wiki/Code_QR) unique dessiné au verso de chaque planche.
 * Les paramètres de l'application permettront d'ajuster le fonctionnement de l'outil en fonction de l'utilisateur et du matériel utilisé: densité de la verbalisation des actions (changements de planches), taille de l'écran, ajustement du double tap, etc.
 * Les pictogrammes sont décrits dans des fichiers indépendants, et les planches sont décrites par un fichier facilement modifiable, au format xml.
 
