@@ -7,6 +7,6 @@ Le principe consiste à disposer pour chaque concept utile à la communication u
 
 Pour en savoir plus sur le principe des pictogrammes tactiles, on peut consulter la page [dédiée au même sujet](http://cln.jmfavreau.info/pictogrammes-tactiles.html) sur le site de la maladie de Batten.
 
-L'ensemble des pictogrammes intégrés à Pictoparle sont issus d'une adaptation des pictogrammes conçus au Foyer d'accueil médicalisé de Beaubois. Ils seront proposés sous forme de bibliothèque prête à l'impression quand Pictoparle sera plus avancé dans son développement.
+L'ensemble des pictogrammes intégrés à Pictoparle sont issus d'une adaptation des pictogrammes conçus au Foyer d'accueil médicalisé de Beaubois. Ils seront proposés sous forme de bibliothèque prête à l'impression quand Pictoparle sera plus avancé dans son développement. Dans l'outil, ils sont agencés sous forme de [planches](planches.md) inspirées des tableaux de langage assisté.
 
 ![Pictogrammes tactiles](img/pictogrammes.jpg)
