@@ -27,6 +27,7 @@ nav:
         - 'Le logiciel': logiciel.md
         - 'Avancées': avancee.md
   - 'La Communication Améliorée et Augmentée': caa.md
+  - 'Alternatives à Pictoparle': alternatives.md
   - 'À propos': a-propos.md
 
 extra_css:
