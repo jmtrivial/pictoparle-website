@@ -9,7 +9,9 @@ La réalisation du projet a commencé pendant les fins de semaines du confinemen
 
 ### 10 mai 2020, sprint 5 : maquette numérique et planches personnalisées
 
-<div class="medium float-right"><iframe width="355" height="200" src=""https://www.youtube.com/embed/kWVCIcq0FZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="medium float-right"><iframe width="355" height="200" src="https://www.youtube.com/embed/kWVCIcq0FZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="medium float-right"><iframe width="355" height="200" src="https://www.youtube.com/embed/mrsanBGftIQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Le [cinquième billet](https://blog.jmtrivial.info/2020/05/10/pictoparle-cinquieme-sprint/) présente la maquette numérique d'assemblage de planche, et la prise en charge de planches personnalisées par l'application.
 
