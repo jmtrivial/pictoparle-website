@@ -1,7 +1,7 @@
 # Les pictogrammes
 
 
-Les [pictogrammes tactiles](http://cln.jmfavreau.info/pictogrammes-tactiles.html) dédiés aux personnes en situation de déficience visuelle sont une déclinaison de pictogrammes utilisés pour les voyants dans les outils de [communication améliorée et augmentée](communication alternative et augmentée).
+Les [pictogrammes tactiles](http://cln.jmfavreau.info/pictogrammes-tactiles.html) dédiés aux personnes en situation de déficience visuelle sont une déclinaison de pictogrammes utilisés pour les voyants dans les outils de [communication améliorée et augmentée](caa.md).
 
 Le principe consiste à disposer pour chaque concept utile à la communication une **représentation graphique abstraite**, facilement identifiable par une exploration tactile. On vise la *rapidité de la reconnaissance*, et une *bonne discrimination* entre les pictogrammes.
 
