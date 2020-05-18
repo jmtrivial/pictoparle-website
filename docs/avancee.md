@@ -7,6 +7,13 @@ L'auteur de Pictoparle propose sur cette page, dans un ordre chronologique inver
 
 La réalisation du projet a commencé pendant les fins de semaines du confinement imposé par COVID-19, sous forme de sprints réguliers, qui ont fait l'objet d'une publication sur le [blog de l'auteur](https://blog.jmtrivial.info/tag/pictoparle/). À chaque fin de print, une vidéo de démonstration est également proposée [sur la chaîne youtube](https://www.youtube.com/playlist?list=PLrhqb8aQtdhWbA6qzXm57dGk4yxtITH1f).
 
+### 18 mai 2020, sprint 6 : la fabrique de pictoparle
+
+<div class="medium float-right"><iframe width="355" height="200" src="https://www.youtube.com/embed/AvcH3Rek4Jo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+Le [sixième billet](https://blog.jmtrivial.info/2020/05/18/pictoparle-sixieme-sprint/) présente la première version du site internet permettant
+de concevoir ses propres planches.
+
 ### 10 mai 2020, sprint 5 : maquette numérique et planches personnalisées
 
 <div class="medium float-right"><iframe width="355" height="200" src="https://www.youtube.com/embed/kWVCIcq0FZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

@@ -6,11 +6,12 @@ Pictoparle est un [outil de communication](caa.md) destiné à une personne en s
 
 Encore [en cours de développement](avancee.md), l'outil se présentera sous forme d'un [boîtier](materiel.md) d'environ 25 centimètres de large par 15 centimètres de hauteur, et d'une épaisseur d'environ un centimètre.
 
-Sur sa face supérieure, l'utilisateur peut placer [la planche](planches.md) de son choix. Dans la version en cours d'expérimentation, chaque planche comporte 9 [pictogrammes tactiles](pictogrammes.md) et 5 pictogrammes fixes, que l'on peut explorer avec la pulpe des doigts.
+Sur sa face supérieure, l'utilisateur peut placer [la planche](planches.md) de son choix. Dans la version en cours d'expérimentation, chaque planche comporte 9 [pictogrammes tactiles](pictogrammes.md) et 5 pictogrammes fixes, que l'on peut explorer avec la pulpe des doigts. Un [éditeur en ligne](https://jmtrivial.github.io/pictoparle-fabrique/web/index.html#) permet aux utilisateurs de concevoir et d'adapter l'outil à leurs propres besoins.
+
+C'est une tablette tactile d'entrée de gamme qui fait fonctionner le dispositif. On y installe l'[application](logiciel.md) développée spécialement pour l'outil.
 
 Un double tap sur le pictogramme de son choix produit alors le son convenu, exprimant de manière intelligible le concept représenté par le pictogramme.
 
-C'est une tablette tactile d'entrée de gamme qui fait fonctionner le dispositif. On y installe l'[application](logiciel.md) développée spécialement pour l'outil.
 
 ## Est-ce que ça marche ?
 
