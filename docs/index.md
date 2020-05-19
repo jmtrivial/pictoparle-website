@@ -7,7 +7,7 @@ Il est [en cours de développement](avancee.md), et sera prêt à être testé d
 
 Pictoparle permet d'explorer des pictogrammes en relief disposés sur une série de planches, et de déclencher un message associé au préalable à chaque pictogramme. 
 
-En tant qu'utilisateur, vous serez intéressé à ces trois étapes :
+En tant qu'utilisateur ou utilisatrice, vous serez probablement intéressé à ces trois étapes :
 
 
 | Fabriquer son dispositif | Concevoir ses planches | Utiliser de PictoParle |
