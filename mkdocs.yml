@@ -1,4 +1,4 @@
-site_name: Pictoparle
+site_name: PictoParle
 site_url: http://pictoparle.jmfavreau.info
 site_description: Site internet du projet Pictoparle, un outil pour la Communication Alternative et Augmentée des personnes en situation de déficience visuelle
 site_author: Jean-Marie Favreau
@@ -19,13 +19,17 @@ theme:
       
 
 nav:
-  - Pictoparle: 
-        - 'Présentation': index.md
+  - Utiliser PictoParle:
+      - Présentation générale: index.md
+      - 'Fabrication du dispositif': fabrication.md
+      - 'Conception de planches personnalisées': conception-planches.md
+      - 'Utilisation de PictoParle': utilisation.md
+  - 'Comment ça marche?':
+        - 'Avancées': avancee.md
         - 'Les pictogrammes': pictogrammes.md
         - 'Les planches': planches.md
         - 'Le matériel': materiel.md
         - 'Le logiciel': logiciel.md
-        - 'Avancées': avancee.md
   - 'La Communication Améliorée et Augmentée': caa.md
   - 'Alternatives à Pictoparle': alternatives.md
   - 'À propos': a-propos.md
@@ -35,6 +39,7 @@ extra_css:
     
 markdown_extensions:
   - markdown.extensions.attr_list:
+  - pymdownx.progressbar
   - pymdownx.arithmatex
   - pymdownx.betterem:
       smart_enable: all

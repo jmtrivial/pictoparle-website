@@ -21,11 +21,8 @@ Les paramètres de l'application permet d'ajuster le comportement l'outil en fon
 
 ## Format des planches
 
-Les pictogrammes sont décrits dans des fichiers indépendants, et les planches sont décrites par un fichier facilement modifiable, au format xml.
+Les pictogrammes sont décrits dans des fichiers indépendants, et les planches sont décrites par un fichier au format zip contenant une description en xml et les images à afficher.
 
 <div class="center"><iframe width="560" height="315"  src="https://www.youtube.com/embed/kWVCIcq0FZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-
-## Compléments
-
-Dans un futur proche, un outil sera également proposé pour générer automatiquement les planches de pictogrammes prêts à l'impression pour le thermogonflage.
+La [fabrique de PictoParle](https://jmtrivial.github.io/pictoparle-fabrique/web/index.html) est un outil développé spécifiquement pour permettre la préparation de ces planches sans prérequis technique. Il est encore en cours de développement, mais permet déjà de fabriquer les fichiers prêts à être chargés dans l'application PictoParle.

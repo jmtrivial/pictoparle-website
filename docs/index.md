@@ -3,19 +3,21 @@
 ![Logo de Pictoparle, silhouette parlante](img/pictoparle-icon.svg){.float-right .small}
 
 Pictoparle est un [outil de communication](caa.md) destiné à une personne en situation de déficience visuelle rencontrant des difficultés dans la communication orale.
+Il est [en cours de développement](avancee.md), et sera prêt à être testé dans une première version fonctionnelle courant 2020.
 
-Encore [en cours de développement](avancee.md), l'outil se présentera sous forme d'un [boîtier](materiel.md) d'environ 25 centimètres de large par 15 centimètres de hauteur, et d'une épaisseur d'environ un centimètre.
+Pictoparle permet d'explorer des pictogrammes en relief disposés sur une série de planches, et de déclencher un message associé au préalable à chaque pictogramme. 
 
-Sur sa face supérieure, l'utilisateur peut placer [la planche](planches.md) de son choix. Dans la version en cours d'expérimentation, chaque planche comporte 9 [pictogrammes tactiles](pictogrammes.md) et 5 pictogrammes fixes, que l'on peut explorer avec la pulpe des doigts. Un [éditeur en ligne](https://jmtrivial.github.io/pictoparle-fabrique/web/index.html#) permet aux utilisateurs de concevoir et d'adapter l'outil à leurs propres besoins.
-
-C'est une tablette tactile d'entrée de gamme qui fait fonctionner le dispositif. On y installe l'[application](logiciel.md) développée spécialement pour l'outil.
-
-Un double tap sur le pictogramme de son choix produit alors le son convenu, exprimant de manière intelligible le concept représenté par le pictogramme.
+En tant qu'utilisateur, vous serez intéressé à ces trois étapes :
 
 
-## Est-ce que ça marche ?
+| Fabriquer son dispositif | Concevoir ses planches | Utiliser de PictoParle |
+|:--------------------------:|:---------------------------------------:|:------------------------:|
+| ![boîtier](img/boitier-3d-crop.jpg) | ![fabriquer ses planches](img/fabrique-crop.png) | ![utiliser PictoParle](img/utilisation-crop.jpg) |
+| [= 5% "Développé à 5%"] | [=50% "Développé à 50%"]   | [=80% "Développé à 80%"]   |
+| [En savoir plus...](fabrication.md) | [En savoir plus...](conception-planches.md) | [En savoir plus...](utilisation.md) |
 
-Le développement de Pictoparle est en cours. On peut consulter [les annonces hebdomadaires](avancee.md) sur ce site, ou consulter les vidéos de démonstration régulièrement mises en ligne :
 
-<div class="container_youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLrhqb8aQtdhWbA6qzXm57dGk4yxtITH1f" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Comment ça marche?
+
+Si vous êtes intéressé·e à découvrir comment fonctionne Pictoparle, et à suivre son développement, rendez-vous sur la [page dédiée](avancees.md), où vous pourrez suivre les nouveautés chaque début de semaine.
