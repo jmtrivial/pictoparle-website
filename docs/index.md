@@ -20,4 +20,4 @@ En tant qu'utilisateur ou utilisatrice, vous serez probablement intéressé à c
 
 ## Comment ça marche?
 
-Si vous êtes intéressé·e à découvrir comment fonctionne Pictoparle, et à suivre son développement, rendez-vous sur la [page dédiée](avancees.md), où vous pourrez suivre les nouveautés chaque début de semaine.
+Si vous êtes intéressé·e à découvrir comment fonctionne Pictoparle, et à suivre son développement, rendez-vous sur la [page dédiée](avancee.md), où vous pourrez suivre les nouveautés chaque début de semaine.
