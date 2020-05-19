@@ -3,12 +3,11 @@
 
 ![Logo de Pictoparle, silhouette parlante](img/pictoparle-icon.svg){.float-right .small}
 
-Pictoparle est un [outil de communication](caa.md) **en cours de développement** destiné à une personne en situation de déficience visuelle rencontrant des difficultés dans la communication orale.
-Une découverte de son fonctionnement pour l'utilisateur est proposée sur [la page d'accueil de ce site](index.md).
+Pictoparle est un [outil de communication](caa.md) **en cours de développement**, développé par une seule personne, à hauteur de deux jours par semaine.
 
 L'outil s'appuie sur une [tablette tactile intégrée à un boîtier](materiel.md), sur lequel l'utilisateur peut placer [la planche](planches.md) de son choix. Un [éditeur en ligne](https://jmtrivial.github.io/pictoparle-fabrique/web/index.html#) permet aux utilisateurs de concevoir et d'adapter l'outil à leurs propres besoins.
 
-C'est une tablette tactile d'entrée de gamme qui fait fonctionner le dispositif. On y installe l'[application](logiciel.md) développée spécialement pour l'outil.
+C'est une tablette tactile d'entrée de gamme qui fait fonctionner le dispositif. On y installe l'[application](application.md) développée spécialement pour l'outil.
 
 ???+ info "Suivi hebdomadaire"
     L'auteur de Pictoparle propose sur cette page, dans un ordre chronologique inversé, les avancées réalisées afin de concevoir, réaliser puis fabriquer l'outil Pictoparle.

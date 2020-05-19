@@ -19,20 +19,20 @@ theme:
       
 
 nav:
+  - Présentation générale: index.md  
   - Utiliser PictoParle:
-      - Présentation générale: index.md
-      - 'Fabrication du dispositif': fabrication.md
-      - 'Conception de planches personnalisées': conception-planches.md
-      - 'Utilisation de PictoParle': utilisation.md
-  - 'Comment ça marche?':
-        - 'Avancées': avancee.md
-        - 'Les pictogrammes': pictogrammes.md
-        - 'Les planches': planches.md
-        - 'Le matériel': materiel.md
-        - 'Le logiciel': logiciel.md
-  - 'La Communication Améliorée et Augmentée': caa.md
-  - 'Alternatives à Pictoparle': alternatives.md
-  - 'À propos': a-propos.md
+      - Fabrication du dispositif: fabrication.md
+      - Conception de planches personnalisées: conception-planches.md
+      - Utilisation de PictoParle: utilisation.md
+  - Avancées: avancee.md
+  - Les ingrédients:
+        - Les pictogrammes: pictogrammes.md
+        - Les planches: planches.md
+        - Le matériel: materiel.md
+        - L'application: application.md
+  - La Communication Améliorée et Augmentée: caa.md
+  - Alternatives à Pictoparle: alternatives.md
+  - À propos: a-propos.md
 
 extra_css:
     - css/extra.css

@@ -15,7 +15,7 @@ Lorsque l'utilisateur place une planche sur le dispositif, celle-ci est automati
 
 <div class="center"><iframe width="355" height="200" src="https://www.youtube.com/embed/R68Y2XyMYhA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-En plus de la souplesse offerte par le choix de mise en page lors de la [conception des planches](conception-planches.md), l'[application](logiciel.md) est largement configurable pour s'adapter aux besoins de chaque utilisateur.
+En plus de la souplesse offerte par le choix de mise en page lors de la [conception des planches](conception-planches.md), l'[application](application.md) est largement configurable pour s'adapter aux besoins de chaque utilisateur.
 
 ## État du développement
 

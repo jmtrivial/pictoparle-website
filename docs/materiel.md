@@ -13,7 +13,7 @@ Ce support peu onéreux est un outil très répandu pour la présentation d'info
 
 ## Tablette tactile
 
-Une tablette tactile est en 2020 le dispositif interactif le plus simple à mettre en place, car sa production en grande série donne accès à des solutions peu onéreuses, économes en énergie, tout en permettant une grande flexibilité grâce à la possibilité d'y concevoir des [applications dédiées](logiciel.md). Une tablette tactile dispose de plus d'une surface réagissant aux interactions d'un utilisateur, et de hauts-parleurs intégrés pour la production du son.
+Une tablette tactile est en 2020 le dispositif interactif le plus simple à mettre en place, car sa production en grande série donne accès à des solutions peu onéreuses, économes en énergie, tout en permettant une grande flexibilité grâce à la possibilité d'y concevoir des [applications dédiées](application.md). Une tablette tactile dispose de plus d'une surface réagissant aux interactions d'un utilisateur, et de hauts-parleurs intégrés pour la production du son.
 
 La taille des [pictogrammes](pictogrammes.md) ayant été fixée à 5 centimètres de large par 4 centimètres de haut pour une exploration confortable, on a cherché un format de tablette offrant le meilleur compromis entre disponibilité et nombre de pictogrammes.
 
