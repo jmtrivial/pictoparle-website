@@ -5,7 +5,7 @@
 
 Pictoparle est un [outil de communication](caa.md) **en cours de développement**, développé par une seule personne, à hauteur de deux jours par semaine.
 
-L'outil s'appuie sur une [tablette tactile intégrée à un boîtier](materiel.md), sur lequel l'utilisateur peut placer [la planche](planches.md) de son choix. Un [éditeur en ligne](https://jmtrivial.github.io/pictoparle-fabrique/web/index.html#) permet aux utilisateurs de concevoir et d'adapter l'outil à leurs propres besoins.
+L'outil s'appuie sur une [tablette tactile intégrée à un boîtier](materiel.md), sur lequel l'utilisateur peut placer [la planche](planches.md) de son choix. Un [éditeur en ligne](fabrique.md) permet aux utilisateurs de concevoir et d'adapter l'outil à leurs propres besoins.
 
 C'est une tablette tactile d'entrée de gamme qui fait fonctionner le dispositif. On y installe l'[application](application.md) développée spécialement pour l'outil.
 
@@ -21,7 +21,7 @@ La réalisation du projet a commencé pendant les fins de semaines du confinemen
 
 <div class="medium float-right"><iframe width="355" height="200" src="https://www.youtube.com/embed/AvcH3Rek4Jo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Le [sixième billet](https://blog.jmtrivial.info/2020/05/18/pictoparle-sixieme-sprint/) présente la première version du site internet permettant
+Le [sixième billet](https://blog.jmtrivial.info/2020/05/18/pictoparle-sixieme-sprint/) présente la première version du [site internet](fabrique.md) permettant
 de concevoir ses propres planches.
 
 ### 10 mai 2020, sprint 5 : maquette numérique et planches personnalisées

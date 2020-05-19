@@ -4,7 +4,7 @@
 
 ## La fabrique de PictoParle
 
-La conception des [planches](planches.md) se fait grâce à la [fabrique de PictoParle](https://jmtrivial.github.io/pictoparle-fabrique/web/index.html).
+La conception des [planches](planches.md) se fait grâce à la [fabrique de PictoParle](fabrique.md).
 Après avoir choisi le modèle de [tablette](materiel.md), et fait le choix d'une mise en page, on associe à chaque emplacement une image et un texte :
 
 
