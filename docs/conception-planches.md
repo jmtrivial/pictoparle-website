@@ -16,7 +16,7 @@ On exporte alors trois fichiers distincts:
 - un fichier au format ``pdf``, prêt à l'impression puis thermogonflage, pour que les [pictogrammes](pictogrammes.md) soient **accessibles au toucher** à l'utilisateur.
 - un fichier au format ``dxf`` ou ``pdf`` servant à la fabrication  du cadre rigide de la planche, qui **matérialise l'espace** entre les pictogrammes.
 
-![boîtier 3D](img/boitier-3d-planche.png)
+![boîtier 3D](img/boitier-3d-v2.png)
 
 Chaque concepteur de planche sera libre d'intégrer ses propres représentations de pictogrammes. Nous partageons cependant à titre d'information la [démarche que nous explorons](http://cln.jmfavreau.info/pictogrammes-tactiles.html) pour cette conception.
 

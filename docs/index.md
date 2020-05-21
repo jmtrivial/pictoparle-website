@@ -12,7 +12,7 @@ En tant qu'utilisateur ou utilisatrice, vous serez probablement intéressé à c
 
 | Fabriquer son dispositif | Concevoir ses planches | Utiliser de PictoParle |
 |:--------------------------:|:---------------------------------------:|:------------------------:|
-| ![boîtier](img/boitier-3d-crop.jpg) | ![fabriquer ses planches](img/fabrique-crop.png) | ![utiliser PictoParle](img/utilisation-crop.jpg) |
+| ![boîtier](img/boitier-3d-crop-v2.png) | ![fabriquer ses planches](img/fabrique-crop.png) | ![utiliser PictoParle](img/utilisation-crop.jpg) |
 | [= 5% "Développé à 5%"] | [=50% "Développé à 50%"]   | [=80% "Développé à 80%"]   |
 | [En savoir plus...](fabrication.md) | [En savoir plus...](conception-planches.md) | [En savoir plus...](utilisation.md) |
 

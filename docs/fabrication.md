@@ -13,7 +13,7 @@ Cette tablette constitue le cœur logique de PictoParle, sur laquelle il vous se
 
 Afin de faciliter la manipulation de PictoParle, nous proposerons les plans d'un boîtier, que l'on pourra fabriquer à la main, ou découper grâce à une découpeuse laser, dans un matériau rigide, mais fin.
 
-<div class="center"><iframe width="710" height="400" src="https://www.youtube.com/embed/mrsanBGftIQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="center"><iframe width="710" height="400" src="https://www.youtube.com/embed/nJZYi7oik8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Avancées
 
