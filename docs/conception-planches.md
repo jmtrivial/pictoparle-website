@@ -1,6 +1,6 @@
 # Conception des planches
 
-[=50% "Développé à 50%"]
+[=60% "Développé à 60%"]
 
 ## La fabrique de PictoParle
 
@@ -22,5 +22,5 @@ Chaque concepteur de planche sera libre d'intégrer ses propres représentations
 
 ## État du développement
 
-Dans sa version actuelle, la fabrique de Pictoparle ne génère que le premier fichier. Les prochains viendront bientôt, puis on améliorera suivant les besoins l'application en prenant en charge plus de modèles de tablettes, ou encore en ajoutant la possibilité de concevoir soi-même de nouvelles mises en page.
+Dans sa version actuelle, la fabrique de Pictoparle ne génère que les deux premiers fichiers. Le dernier viendra bientôt, puis on améliorera suivant les besoins l'application en prenant en charge plus de modèles de tablettes, ou encore en ajoutant la possibilité de concevoir soi-même de nouvelles mises en page.
 
