@@ -10,7 +10,10 @@ Après avoir choisi le modèle de [tablette](materiel.md), et fait le choix d'un
 
 <div class="center"><iframe width="710" height="400" src="https://www.youtube.com/embed/AvcH3Rek4Jo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+
 On exporte alors trois fichiers distincts:
+
+<div class="float-right"><iframe width="266" height="150" src="https://www.youtube.com/embed/i-Jg_FCP96g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 - un fichier au format ``zip``, que l'on **chargera dans la tablette**, pour que celle-ci puisse prendre en charge la nouvelle planche.
 - un fichier au format ``pdf``, prêt à l'impression puis thermogonflage, pour que les [pictogrammes](pictogrammes.md) soient **accessibles au toucher** à l'utilisateur.

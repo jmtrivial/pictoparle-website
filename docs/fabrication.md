@@ -1,6 +1,6 @@
 # Fabrication
 
-[=5% "Développé à 5%"]
+[=25% "Développé à 25%"]
 
 ## Tablette tactile
 
@@ -15,8 +15,12 @@ Afin de faciliter la manipulation de PictoParle, nous proposerons les plans d'un
 
 <div class="center"><iframe width="710" height="400" src="https://www.youtube.com/embed/nJZYi7oik8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+<div class="center"><iframe width="710" height="400" src="https://www.youtube.com/embed/JXX7dQuCEgE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 ## Avancées
 
-Cette partie de PictoParle est aujourd'hui la moins avancée. Une maquette numérique a été réalisée, pour prototyper le dispositif d'assemblage. La vidéo ci-dessus en est l'illustration. Dans les prochaines semaines, nous avancerons sur cet aspect, pour proposer les premiers prototypes matériels, probablement d'abord en carton rigide, avant de poursuivre sur un assemblage en médium.
+Cette partie de PictoParle est aujourd'hui la moins avancée. Les premières maquettes numériques a permis de prototyper le dispositif d'assemblage. 
+Une première version a été découpée à la main dans du carton-bois, en un prototype matériel, pour en évaluer l'ergonomie. Les prochaines versions seront probalement réalisées par découpage laser en médium.
 
 

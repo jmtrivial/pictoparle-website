@@ -31,7 +31,10 @@ peu à la manière de ce qui a été exploré pendant le [quatrième sprint](htt
 La détection des planches se faisant par la webcam, et grâce à des QRCodes placés au verso, on cherche à concevoir un design à la fois facile d'utilisation, et qui assure une détection de la tablette à chaque fois qu'une nouvelle est placée sur le support. Il faut donc que le geste soit le plus uniforme possible. Dans cette proposition, l'utilisateur est invité à poser le bas de la planche sur la tablette, puis à la faire glisser jusqu'aux butées prévues à cet effet, avant de faire pivoter la planche sur la tablette.
 
 
-La première version du boîtier externe sera probablement fabriquée en utilisant du medium et une découpeuse laser, avec un assemblage par crénelages, à la manière d'une [précédente réalisation](http://accessibilite.jmtrivial.info/tag/qui-est-ce-tactile/) de l'auteur.
+<div class="float-right"><iframe width="355" height="200" src="https://www.youtube.com/embed/JXX7dQuCEgE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+La première version du boîtier externe a été réalisée à la main, en découpant du carton-bois. Les suivantes seront probablement fabriquées en utilisant du medium et une découpeuse laser, avec un assemblage par crénelages, à la manière d'une [précédente réalisation](http://accessibilite.jmtrivial.info/tag/qui-est-ce-tactile/) de l'auteur.
+
+
 
 Dans le dessin pour découpage, on prévoiera des ouvertures latérales laissant accès aux boutons de volume et de marche/arrêt de la tablette, à la prise USB pour le chargement, ainsi qu'à la prise jack dans le cas où on voudrait connecter une enceinte, un casque, ou tout autre dispositif de diffusion sonore.
 

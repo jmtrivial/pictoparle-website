@@ -17,6 +17,15 @@ C'est une tablette tactile d'entrée de gamme qui fait fonctionner le dispositif
 
 La réalisation du projet a commencé pendant les fins de semaines du confinement imposé par COVID-19, sous forme de sprints réguliers, qui ont fait l'objet d'une publication sur le [blog de l'auteur](https://blog.jmtrivial.info/tag/pictoparle/). À chaque fin de print, une vidéo de démonstration est également proposée [sur la chaîne youtube](https://www.youtube.com/playlist?list=PLrhqb8aQtdhWbA6qzXm57dGk4yxtITH1f).
 
+### 25 mai 2020, sprint 7 : maquette physique
+
+<div class="medium float-right"><iframe width="355" height="200" src="https://www.youtube.com/embed/i-Jg_FCP96g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="medium float-right"><iframe width="355" height="200" src="https://www.youtube.com/embed/JXX7dQuCEgE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
+Le [septième billet](https://blog.jmtrivial.info/2020/05/25/pictoparle-septieme-sprint/) présente la première version d'une [maquette physique](fabrication.md), qui permettra de faire les premiers essais d'ergonomie. Le travail a également continué sur la fabrique de PictoParle.
+
 ### 18 mai 2020, sprint 6 : la fabrique de pictoparle
 
 <div class="medium float-right"><iframe width="355" height="200" src="https://www.youtube.com/embed/AvcH3Rek4Jo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
