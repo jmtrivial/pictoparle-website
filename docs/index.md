@@ -10,7 +10,7 @@ Pictoparle permet d'explorer des pictogrammes en relief disposés sur une série
 En tant qu'utilisateur ou utilisatrice, vous serez probablement intéressé à ces trois étapes :
 
 
-| Fabriquer son dispositif | Concevoir ses planches | Utiliser de PictoParle |
+| Fabriquer son dispositif | Concevoir ses planches | Utiliser PictoParle |
 |:--------------------------:|:---------------------------------------:|:------------------------:|
 | ![boîtier](img/boitier-3d-crop-v2.png) | ![fabriquer ses planches](img/fabrique-crop.png) | ![utiliser PictoParle](img/utilisation-crop.jpg) |
 | [= 5% "Développé à 5%"] | [=60% "Développé à 60%"]   | [=80% "Développé à 80%"]   |
