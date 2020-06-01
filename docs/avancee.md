@@ -30,7 +30,7 @@ Le [huitième sprint](https://blog.jmtrivial.info/2020/06/01/pictoparle-huitieme
 <div class="medium float-right"><iframe width="355" height="200" src="https://www.youtube.com/embed/JXX7dQuCEgE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
-Le [septième billet](https://blog.jmtrivial.info/2020/05/25/pictoparle-septieme-sprint/) présente la première version d'une [maquette physique](fabrication.md), qui permettra de faire les premiers essais d'ergonomie. Le travail a également continué sur la fabrique de PictoParle.
+Le [septième billet](https://blog.jmtrivial.info/2020/05/25/pictoparle-septieme-sprint/) présente la première version d'une [maquette physique](fabrication.md), qui permettra de faire les premiers essais d'ergonomie. Le travail a également continué sur la fabrique de Pictoparle.
 
 ### 18 mai 2020, sprint 6 : la fabrique de pictoparle
 
@@ -77,7 +77,7 @@ Le [premier billet](https://blog.jmtrivial.info/2020/04/14/pictoparle-premier-sp
 
 ## Conception
 
-Les premières réflexions qui ont mené à la réalisation de l'outil **PictoParle** s'inspirent des travaux
+Les premières réflexions qui ont mené à la réalisation de l'outil **Pictoparle** s'inspirent des travaux
 de Catherine Rabreau, instructrice en AVJ et formatrice [FISAF](https://www.fisaf.asso.fr/), présentés
 lors d'une formation au [CRDV](http://www.crdv.org/) en 2019.
 

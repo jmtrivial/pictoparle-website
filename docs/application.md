@@ -25,4 +25,4 @@ Les pictogrammes sont décrits dans des fichiers indépendants, et les planches 
 
 <div class="center"><iframe width="560" height="315"  src="https://www.youtube.com/embed/kWVCIcq0FZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-La [fabrique de PictoParle](https://jmtrivial.github.io/pictoparle-fabrique/web/index.html) est un outil développé spécifiquement pour permettre la préparation de ces planches sans prérequis technique. Il est encore en cours de développement, mais permet déjà de fabriquer les fichiers prêts à être chargés dans l'application PictoParle.
+La [fabrique de Pictoparle](https://jmtrivial.github.io/pictoparle-fabrique/web/index.html) est un outil développé spécifiquement pour permettre la préparation de ces planches sans prérequis technique. Il est encore en cours de développement, mais permet déjà de fabriquer les fichiers prêts à être chargés dans l'application Pictoparle.

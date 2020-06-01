@@ -7,9 +7,9 @@
 
 [=80% "Développé à 80%"]
 
-## La fabrique de PictoParle
+## La fabrique de Pictoparle
 
-La conception des [planches](planches.md) se fait grâce à la [fabrique de PictoParle](fabrique.md).
+La conception des [planches](planches.md) se fait grâce à la [fabrique de Pictoparle](fabrique.md).
 Après avoir choisi le modèle de [tablette](materiel.md), et fait le choix d'une mise en page, on associe à chaque emplacement une image et un texte :
 
 
