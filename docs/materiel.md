@@ -26,16 +26,19 @@ Notre choix s'est porté sur une tablette de 10,1 pouces, car la surface permet 
 
 ![Détail d'un rendu 3D proposant un concept d'assemblage des deux parties de la boîte](img/boitier-3d.jpg){.medium .float-right}
 
-La partie supérieure du boîtier sera amovible, et chaque [planche de pictogrammes](planches.md) sera formée de son propre couvercle, afin de faciliter le changement de planche, un 
+La partie supérieure du boîtier est amovible, et chaque [planche de pictogrammes](planches.md) est formée de son propre « couvercle », afin de faciliter le changement de planche, un 
 peu à la manière de ce qui a été exploré pendant le [quatrième sprint](https://www.youtube.com/watch?v=R68Y2XyMYhA) avec les planches en papier rigide. L'illustration jointe propose un assemblage simple entre les deux parties de la boîte, que l'on peut voir animé sur [une vidéo de simulation 3D](https://www.youtube.com/watch?v=nJZYi7oik8k).
-La détection des planches se faisant par la webcam, et grâce à des QRCodes placés au verso, on cherche à concevoir un design à la fois facile d'utilisation, et qui assure une détection de la tablette à chaque fois qu'une nouvelle est placée sur le support. Il faut donc que le geste soit le plus uniforme possible. Dans cette proposition, l'utilisateur est invité à poser le bas de la planche sur la tablette, puis à la faire glisser jusqu'aux butées prévues à cet effet, avant de faire pivoter la planche sur la tablette.
+La détection des planches se faisant par la webcam, et grâce à des QRCodes placés au verso. Le design vise à la fois la facilité d'utilisation et une détection automatique de la tablette à chaque fois qu'une nouvelle est placée sur le support. L'utilisateur est donc invité à poser le bas de la planche sur la tablette, puis à la faire glisser jusqu'aux butées prévues à cet effet, avant de faire pivoter la planche sur la tablette.
 
 
 <div class="float-right"><iframe width="355" height="200" src="https://www.youtube.com/embed/JXX7dQuCEgE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 La première version du boîtier externe a été réalisée à la main, en découpant du carton-bois. Les suivantes seront probablement fabriquées en utilisant du medium et une découpeuse laser, avec un assemblage par crénelages, à la manière d'une [précédente réalisation](http://accessibilite.jmtrivial.info/tag/qui-est-ce-tactile/) de l'auteur.
 
+La [fabrique de Pictoparle](fabrique.md) permet ainsi de générer les patrons qui servent au choix à un découpage manuel (au cutter) ou à un découpage par machine-outil. En voici un petit tour d'horizon.
+
+<div class="center"><iframe width="710" height="400" src="https://www.youtube.com/embed/SOI7z4aCWHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
-Dans le dessin pour découpage, on prévoiera des ouvertures latérales laissant accès aux boutons de volume et de marche/arrêt de la tablette, à la prise USB pour le chargement, ainsi qu'à la prise jack dans le cas où on voudrait connecter une enceinte, un casque, ou tout autre dispositif de diffusion sonore.
+Dans le dessin pour découpage, on prévoiera prochainement des ouvertures latérales laissant accès aux boutons de volume et de marche/arrêt de la tablette, à la prise USB pour le chargement, ainsi qu'à la prise jack dans le cas où on voudrait connecter une enceinte, un casque, ou tout autre dispositif de diffusion sonore.
 
 On évitera également de recouvrir les hauts-parleurs de la tablette, afin d'avoir un son le plus clair possible.

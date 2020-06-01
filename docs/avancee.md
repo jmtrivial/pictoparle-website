@@ -17,6 +17,12 @@ C'est une tablette tactile d'entrée de gamme qui fait fonctionner le dispositif
 
 La réalisation du projet a commencé pendant les fins de semaines du confinement imposé par COVID-19, sous forme de sprints réguliers, qui ont fait l'objet d'une publication sur le [blog de l'auteur](https://blog.jmtrivial.info/tag/pictoparle/). À chaque fin de print, une vidéo de démonstration est également proposée [sur la chaîne youtube](https://www.youtube.com/playlist?list=PLrhqb8aQtdhWbA6qzXm57dGk4yxtITH1f).
 
+### 1er juin 2020, sprint 8 : patrons de découpage
+
+<div class="medium float-right"><iframe width="355" height="200" src="https://www.youtube.com/embed/SOI7z4aCWHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+Le [huitième sprint](https://blog.jmtrivial.info/2020/06/01/pictoparle-huitieme-sprint/) présente la génération des [patrons de découpe](fabrication.md) par la fabrique de Pictoparle, pour un découpage manuel ou par machine-outil.
+
 ### 25 mai 2020, sprint 7 : maquette physique
 
 <div class="medium float-right"><iframe width="355" height="200" src="https://www.youtube.com/embed/i-Jg_FCP96g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

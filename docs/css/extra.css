@@ -91,3 +91,19 @@ td {
   .progress-0plus .progress-bar {
     background-color: #f50057;
   }
+  
+  a.btn-fabrique {
+        display: block;
+        float: right;
+        background: #ff7043;
+        color: #fff !important;
+        padding: 0.5em 1em;
+        text-transform: uppercase;
+        box-shadow: 0 4px 2px -2px #ddd;
+        border-radius: 4px;
+      margin-top: -2em;
+  }
+  a.btn-fabrique:hover {
+      background: #ff815a;
+      box-shadow: 0 4px 2px -2px #eee;
+  }
