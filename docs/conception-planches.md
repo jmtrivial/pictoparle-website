@@ -5,7 +5,7 @@
 </div>
 
 
-[=80% "Développé à 80%"]
+[=90% "Développé à 90%"]
 
 ## La fabrique de Pictoparle
 
