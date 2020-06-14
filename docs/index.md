@@ -2,7 +2,7 @@
 
 ![Logo de Pictoparle, silhouette parlante](img/pictoparle-icon.svg){.float-right .small}
 
-Pictoparle est un [outil de communication](caa.md) destiné à une personne en situation de déficience visuelle rencontrant des difficultés dans la communication orale.
+Pictoparle est un [outil de communication alternative et augmentée](caa.md) destiné aux personnes en situation de déficience visuelle rencontrant des difficultés dans la communication orale.
 Il est [en cours de développement](avancee.md), et sera prêt à être testé dans une première version fonctionnelle courant 2020.
 
 Pictoparle permet d'explorer des pictogrammes en relief disposés sur une série de planches, et de déclencher un message associé au préalable à chaque pictogramme. 
