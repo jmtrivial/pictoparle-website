@@ -5,7 +5,7 @@
 </div>
 
 
-[=70% "Développé à 70%"]
+[=80% "Développé à 80%"]
 
 
 ## Tablette tactile
@@ -39,6 +39,7 @@ Afin de faciliter la manipulation de Pictoparle, nous proposons les [plans d'un 
 ## Avancées
 
 Après les premières maquettes numériques qui ont permis de prototyper le dispositif d'assemblage, et une première version découpée à la main dans du carton-bois pour en évaluer l'ergonomie,
-la [fabrique de Pictoparle](fabrique.md) s'équipe d'un générateur de patrons de découpe, qui a été [testé virtuellement](https://blog.jmtrivial.info/2020/06/08/pictoparle-neuvieme-sprint/).
+la [fabrique de Pictoparle](fabrique.md) s'équipe d'un générateur de patrons de découpe, qui a été [testé virtuellement](https://blog.jmtrivial.info/2020/06/08/pictoparle-neuvieme-sprint/),
+puis [ajusté pour la fabrication numérique](https://blog.jmtrivial.info/2020/06/14/pictoparle-dixieme-sprint/).
 
 
