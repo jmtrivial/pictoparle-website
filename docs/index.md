@@ -13,7 +13,7 @@ En tant qu'utilisateur ou utilisatrice, vous serez probablement intéressé à c
 | Fabriquer son dispositif | Concevoir ses planches | Utiliser Pictoparle |
 |:--------------------------:|:---------------------------------------:|:------------------------:|
 | ![boîtier](img/decoupe.jpg) | ![fabriquer ses planches](img/fabrique-crop.png) | ![utiliser Pictoparle](img/utilisation-crop.jpg) |
-| [= 80% "Développé à 80%"] | [=90% "Développé à 90%"]   | [=80% "Développé à 80%"]   |
+| [= 80% "Développé à 80%"] | [=90% "Développé à 90%"]   | [=85% "Développé à 85%"]   |
 | [En savoir plus...](fabrication.md) | [En savoir plus...](conception-planches.md) | [En savoir plus...](utilisation.md) |
 
 

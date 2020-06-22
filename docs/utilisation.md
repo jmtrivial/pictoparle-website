@@ -1,15 +1,15 @@
 # Utilisation de Pictoparle
 
-[=80% "Développé à 80%"]
+[=85% "Développé à 85%"]
 
 ## Interaction avec les pictogrammes
 
-Une fois que vous aurez [fabriqué votre dispositif](fabrication.md) et éventuellement [conçu vos planches personnalisées](conception-planches.md), vous pourrez alors utiliser Pictoparle. L'utilisateur peut explorer par le toucher les pictogrammes, et déclencher le message associé grâce à un double tap sur le pictogramme.
+Une fois que vous aurez [fabriqué votre dispositif](fabrication.md) et éventuellement [conçu vos planches personnalisées](conception-planches.md), vous pourrez alors utiliser Pictoparle. L'utilisateur peut explorer par le toucher les pictogrammes, et déclencher le message associé grâce à un double tap sur le pictogramme. Ce message peut être produit par une voix de synthèse, ou personnalisé au moment de la conception de la planche.
 
 
 ![boîtier fermé](img/utilisation.jpg){.medium .float-right}
 
-L'outil se présentera sous forme d'un [boîtier](materiel.md) d'environ 25 centimètres de large par 15 centimètres de hauteur, et d'une épaisseur d'environ un centimètre, sur lequel l'utilisateur vient placer les [planche](planches.md) de son choix, issues des planches proposées par défaut, ou imaginées par vos soins.
+L'outil se présente sous forme d'un [boîtier](materiel.md) d'environ 25 centimètres de large par 15 centimètres de hauteur, et d'une épaisseur d'environ un centimètre, sur lequel l'utilisateur vient placer les [planche](planches.md) de son choix, issues des planches proposées par défaut, ou imaginées par vos soins.
 
 Lorsque l'utilisateur place une planche sur le dispositif, celle-ci est automatiquement reconnue, et l'utilisateur en est informé :
 

@@ -10,11 +10,12 @@
 ## La fabrique de Pictoparle
 
 La conception des [planches](planches.md) se fait grâce à la [fabrique de Pictoparle](fabrique.md).
-Après avoir choisi le modèle de [tablette](materiel.md), et fait le choix d'une mise en page, on associe à chaque emplacement une image et un texte :
+Après avoir choisi le modèle de [tablette](materiel.md), et fait le choix d'une mise en page, on associe à chaque emplacement une image, un texte, et éventuellement un son :
 
 
 <div class="center"><iframe width="710" height="400" src="https://www.youtube.com/embed/4mJWmcKHyJM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+<div class="center"><iframe width="710" height="400" src="https://www.youtube.com/embed/sKS5lZfW6yM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 On exporte alors trois fichiers distincts:
 

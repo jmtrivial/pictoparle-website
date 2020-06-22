@@ -12,6 +12,8 @@ L'application utilise la caméra côté écran pour détecter la présence d'une
 
 <div class="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/R68Y2XyMYhA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+L'application utilise par défaut la synthèse vocale pour produire le son associé à chaque pictogramme, mais il est également possible d'associer des enregistrements audio personnalisés.
+
 ## Configuration
 
 Les paramètres de l'application permet d'ajuster le comportement l'outil en fonction de l'utilisateur et du matériel utilisé: densité de la verbalisation des actions (changements de planches), taille de l'écran, ajustement du double tap, etc.
@@ -21,7 +23,7 @@ Les paramètres de l'application permet d'ajuster le comportement l'outil en fon
 
 ## Format des planches
 
-Les pictogrammes sont décrits dans des fichiers indépendants, et les planches sont décrites par un fichier au format zip contenant une description en xml et les images à afficher.
+Les pictogrammes sont décrits dans des fichiers indépendants, et les planches sont décrites par un fichier au format zip contenant une description en xml, les images à afficher, et éventuellement les sons à lancer.
 
 <div class="center"><iframe width="560" height="315"  src="https://www.youtube.com/embed/kWVCIcq0FZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
