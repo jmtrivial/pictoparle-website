@@ -25,11 +25,11 @@ On exporte alors trois fichiers distincts:
 - un fichier au format ``pdf``, prêt à l'impression puis thermogonflage, pour que les [pictogrammes](pictogrammes.md) soient **accessibles au toucher** à l'utilisateur.
 - un fichier au format ``dxf`` ou ``pdf`` servant à la fabrication  du cadre rigide de la planche, qui **matérialise l'espace** entre les pictogrammes.
 
-![boîtier 3D](img/boitier-3d-v2.png)
+![boîtier 3D](img/pictoparle-medium.jpg)
 
 Chaque concepteur de planche est libre d'y intégrer ses propres pictogrammes. Nous partageons cependant à titre d'information la [démarche que nous explorons](http://cln.jmfavreau.info/pictogrammes-tactiles.html) pour cette conception.
 
 ## État du développement
 
-Dans sa version actuelle, la fabrique de Pictoparle génère les trois premiers fichiers, même si le patron de découpe n'a pas encore été testé. On améliorera ensuite suivant les besoins l'application en prenant en charge plus de modèles de tablettes, ou encore en ajoutant la possibilité de concevoir soi-même de nouvelles mises en page.
+Dans sa version actuelle, la fabrique de Pictoparle génère les trois premiers fichiers. On améliorera progressivement cet outil suivant les besoins, en prenant en charge plus de modèles de tablettes, ou encore en ajoutant la possibilité de concevoir soi-même de nouvelles mises en page.
 

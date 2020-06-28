@@ -17,6 +17,15 @@ C'est une tablette tactile d'entrée de gamme qui fait fonctionner le dispositif
 
 La réalisation du projet a commencé pendant les fins de semaines du confinement imposé par COVID-19, sous forme de sprints réguliers, qui ont fait l'objet d'une publication sur le [blog de l'auteur](https://blog.jmtrivial.info/tag/pictoparle/). À chaque fin de print, une vidéo de démonstration est également proposée [sur la chaîne youtube](https://www.youtube.com/playlist?list=PLrhqb8aQtdhWbA6qzXm57dGk4yxtITH1f).
 
+### 28 juin 2020, sprint 12 : boîtier en medium et améliorations de l'application
+
+<div class="medium float-right"><iframe width="355" height="200" src="https://www.youtube.com/embed/awzBzCnelJM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="medium float-right"><iframe width="355" height="200" src="https://www.youtube.com/embed/qaH3NBpz65Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+Le [douzième sprint](https://blog.jmtrivial.info/2020/06/28/pictoparle-douzieme-sprint/) a été l'occasion de tester puis d'assembler le boîtier
+découpé dans du medium, et d'améliorer l'application Pictoparle.
+
 ### 22 juin 2020, sprint 11 : sons personnalisés
 
 <div class="medium float-right"><iframe width="355" height="200" src="https://www.youtube.com/embed/sKS5lZfW6yM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
