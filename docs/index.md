@@ -12,8 +12,8 @@ En tant qu'utilisateur ou utilisatrice, vous serez probablement intéressé à c
 
 | Fabriquer son dispositif | Concevoir ses planches | Utiliser Pictoparle |
 |:--------------------------:|:---------------------------------------:|:------------------------:|
-| ![boîtier](img/assemblage-crop.jpg) | ![fabriquer ses planches](img/fabrique-crop.png) | ![utiliser Pictoparle](img/pictoparle-medium-crop.jpg) |
-| [= 90% "Développé à 90%"] | [=90% "Développé à 90%"]   | [=85% "Développé à 85%"]   |
+| ![boîtier](img/assemblage-crop.jpg) | ![fabriquer ses planches](img/assemblage-planche-crop.jpg) | ![utiliser Pictoparle](img/utilisation-repas-crop.jpg) |
+| [= 95% "Développé à 95%"] | [=90% "Développé à 95%"]   | [=95% "Développé à 95%"]   |
 | [En savoir plus...](fabrication.md) | [En savoir plus...](conception-planches.md) | [En savoir plus...](utilisation.md) |
 
 

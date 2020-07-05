@@ -10,7 +10,7 @@ Voici une description non exhausive de son fonctionnement.
 
 L'application utilise la caméra côté écran pour détecter la présence d'une [planche](planches.md) sur sa surface. L'interaction avec les pictogrammes est proposée par double tap. L'application est capable de détecter la planche présentée automatiquement grâce à un [QR code](https://fr.wikipedia.org/wiki/Code_QR) unique dessiné au verso de chaque planche.
 
-<div class="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/awzBzCnelJM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/oVPHKjqLtiY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 L'application utilise par défaut la synthèse vocale pour produire le son associé à chaque pictogramme, mais il est également possible d'associer des enregistrements audio personnalisés.
 

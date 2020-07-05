@@ -17,6 +17,14 @@ C'est une tablette tactile d'entrée de gamme qui fait fonctionner le dispositif
 
 La réalisation du projet a commencé pendant les fins de semaines du confinement imposé par COVID-19, sous forme de sprints réguliers, qui ont fait l'objet d'une publication sur le [blog de l'auteur](https://blog.jmtrivial.info/tag/pictoparle/). À chaque fin de print, une vidéo de démonstration est également proposée [sur la chaîne youtube](https://www.youtube.com/playlist?list=PLrhqb8aQtdhWbA6qzXm57dGk4yxtITH1f).
 
+### 5 juillet 2020, sprint 13 : premier prototype diffusable
+
+<div class="medium float-right"><iframe width="355" height="200" src="https://www.youtube.com/embed/oVPHKjqLtiY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+Le [treizième sprint](https://blog.jmtrivial.info/2020/07/05/pictoparle-treizieme-sprint/) a été l'occasion d'assembler une version définitive du premier prototype diffusable, et de consolider de nombreux éléments de fonctionnement.
+
+*Ce sprint clôt la première session de développement, et l'été sera l'occasion de tester Pictoparle en condition réelle. Rendez-vous en septembre pour la suite.*
+
 ### 28 juin 2020, sprint 12 : boîtier en medium et améliorations de l'application
 
 <div class="medium float-right"><iframe width="355" height="200" src="https://www.youtube.com/embed/awzBzCnelJM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
