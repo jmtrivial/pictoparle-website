@@ -5,8 +5,6 @@
 </div>
 
 
-[=95% "Développé à 95%"]
-
 ## La fabrique de Pictoparle
 
 La conception des [planches](planches.md) se fait grâce à la [fabrique de Pictoparle](fabrique.md).

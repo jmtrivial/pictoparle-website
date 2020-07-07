@@ -5,8 +5,6 @@
 </div>
 
 
-[=95% "Développé à 95%"]
-
 
 ## Tablette tactile
 
