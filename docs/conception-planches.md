@@ -24,10 +24,15 @@ La fabrique de pictoparle génère trois fichiers distincts:
 - un fichier au format ``pdf``, prêt à l'impression puis thermogonflage, pour que les [pictogrammes](pictogrammes.md) soient **accessibles au toucher** à l'utilisateur.
 - un fichier au format ``dxf`` ou ``pdf`` servant à la fabrication  du cadre rigide de la planche, qui **matérialise l'espace** entre les pictogrammes.
 
-Après impression de la feuille thermogonflée, et découpage du cadre rigide, l'utilisation d'un assemblage par collage est facilitée par la matérialisation des fenêtres en couleur violette sur les feuilles.
+Après impression de la feuille thermogonflée, et découpage du cadre rigide, l'utilisation d'un assemblage par collage est facilitée par la matérialisation des fenêtres en couleur violette sur les feuilles:
 
 ![Utilisation d'une colle ruban](img/colle-ruban.jpg){.medium .float-right}
 ![Assemblage de la planche](img/assemblage-planche.jpg){.medium .float-right}
+
+
+L'utilisation d'un vernis sur la planche thermogonglée assure sa protection, et son usage sur le long terme:
+
+![Assemblage de la planche](img/vernis.jpg)
 
 
 ## État du développement
