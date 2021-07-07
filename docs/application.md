@@ -2,7 +2,7 @@
 
 ![L'interface de l'application sur une tablette](img/application.png){.float-right .medium}
 
-L'application développée pour faire fonctionner la tablette dans Pictoparle est conçue pour fonctionner sur une tablette Android. Le code source est disponible [sur le github du projet](https://github.com/jmtrivial/pictoparle), il est écrit en java, et s'appuie au maximum sur des versions éprouvées de l'API. Si l'application pourrait a priori fonctionner sur de nombreuses tablettes, elle a pour l'instant été principalement utilisée sur une tablette Lenovo 10 pouces équipée d'une version d'Android 8.1. Elle fonctionne également sur des plus petits écrans, même si elle n'offre pas alors le mieux de ses possibilités.
+L'application développée pour faire fonctionner la tablette dans Pictoparle est conçue pour fonctionner sur une tablette Android. Le code source est disponible [sur le github du projet](https://github.com/jmtrivial/pictoparle), il est écrit en java, et s'appuie au maximum sur des versions éprouvées de l'API. Les [APK de test](https://github.com/jmtrivial/pictoparle/releases/tag/v0.1) sont proposées régulièrement. Si l'application pourrait a priori fonctionner sur de nombreuses tablettes, elle a pour l'instant été principalement utilisée sur une tablette Lenovo 10 pouces équipée d'une version d'Android 8.1. Elle fonctionne également sur des plus petits écrans, même si elle n'offre pas alors le mieux de ses possibilités.
 
 Voici une description non exhausive de son fonctionnement.
 

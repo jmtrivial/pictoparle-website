@@ -20,7 +20,7 @@ En plus de la souplesse offerte par le choix de mise en page lors de la [concept
 ## État du développement
 
 
-L'application Android Pictoparle qui prend en charge toutes les interactions avec l'utilisateur est aujourd'hui fonctionnelle. Son [code source est disponible en ligne](https://github.com/jmtrivial/pictoparle), et un *pkg* d'installation sera prochainement mis à disposition. De nouvelles fonctionnalités pourront être ajoutées suivant les besoins des utilisateurs.
+L'application Android Pictoparle qui prend en charge toutes les interactions avec l'utilisateur est aujourd'hui fonctionnelle. Son [code source est disponible en ligne](https://github.com/jmtrivial/pictoparle), et un [*apk* d'installation est régulièrement mis à disposition](https://github.com/jmtrivial/pictoparle/releases). De nouvelles fonctionnalités pourront être ajoutées suivant les besoins des utilisateurs.
 
 
 
