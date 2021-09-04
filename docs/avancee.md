@@ -17,6 +17,15 @@ C'est une tablette tactile d'entrée de gamme qui fait fonctionner le dispositif
 
 La réalisation du projet a commencé pendant les fins de semaines du confinement imposé par COVID-19, sous forme de sprints réguliers, qui ont fait l'objet d'une publication sur le [blog de l'auteur](https://blog.jmtrivial.info/tag/pictoparle/). À chaque fin de print, une vidéo de démonstration est également proposée [sur la chaîne youtube](https://www.youtube.com/playlist?list=PLrhqb8aQtdhWbA6qzXm57dGk4yxtITH1f).
 
+### 4 septembre 2021, rétrospective de la saison 2
+
+<div class="medium float-right"><a href="https://blog.jmtrivial.info/2021/09/04/pictoparle-deuxieme-annee-de-developpement/"><img style="width: 355px" src="/img/interface.jpg" alt="une utilisatrice face à l'interface" /></a></div>
+
+
+La deuxième saison de Pictoparle s'est déroulée sans communication, mais beaucoup de points ont été améliorés, comme le raconte ce [billet
+de rétrospective de la saison 2](https://blog.jmtrivial.info/2021/09/04/pictoparle-deuxieme-annee-de-developpement/) de développement.
+
+
 ### 4 octobre 2020, annonce de la saison 2
 
 <div class="medium float-right"><a href="https://blog.jmtrivial.info/2020/10/04/pictoparle-saison-2/"><img style="width: 355px" src="/img/deux-pictoparle.jpg" alt="deux dispositifs pictoparle" /></a></div>
