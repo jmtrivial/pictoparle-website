@@ -1,5 +1,9 @@
 # Pictoparle
 
+???+ info "Utiliser Pictoparle"
+    Le site sur lequel vous êtes raconte le développement et le fonctionnement de Pictoparle. Si vous souhaitez des informations pratiques pour l'utiliser, rendez-vous sur 
+    [la fabrique de Pictoparle](https://jmtrivial.github.io/pictoparle-fabrique/web/).
+
 ![Logo de Pictoparle, silhouette parlante](img/pictoparle-icon.svg){.float-right .small}
 
 
